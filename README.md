@@ -1,4 +1,4 @@
-# nys_covid_python
+# NYS COVID-19 Positivity Rate in Python
 Simple Jupyter notebook pulling in data from NYS open data API to illustrate Nassau County COVID positivity rate
 
 
